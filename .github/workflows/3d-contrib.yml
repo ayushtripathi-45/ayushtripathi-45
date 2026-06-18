@@ -16,7 +16,7 @@ jobs:
       - name: Generate 3D profile
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         with:
-          USERNAME: ${{ github.ayushtripathi-45 }}
+          USERNAME: ${{ github.repository_owner }}
 
       - name: Push main
         uses: crazy-max/ghaction-github-pages@v3
