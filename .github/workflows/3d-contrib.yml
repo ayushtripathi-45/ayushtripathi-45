@@ -2,7 +2,7 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,17 +11,14 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate 3D profile
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
-          USERNAME: ${{ github.repository_owner }}
 
-      - name: Push output
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: profile-3d-contrib
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: profile-3d-contrib
+          publish_branch: output
