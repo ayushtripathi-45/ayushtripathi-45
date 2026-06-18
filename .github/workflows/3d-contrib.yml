@@ -18,10 +18,10 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Push main
+      - name: Push output
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: main
+          target_branch: output
           build_dir: profile-3d-contrib
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
