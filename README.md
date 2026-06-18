@@ -1,21 +1,168 @@
-# 💫 About Me:
-Currently a Computer Science Under Grad Student passionate about AI ML and Full Stack Development<br><br>💻 Aspiring full stack developer learning modern frontend technologies. <br><br>🌱 I enjoy experimenting, breaking things, and rebuilding them better. Committed to growing through projects and open-source contributions. <br><br>🛠️ I’m currently working on building clean, scalable front-end interfaces and full-stack projects .<br><br>🧩 Currently learning full-stack development, modern frameworks, and best practices for production-ready code.<br><br>💻 Eager to gain knowledge about front-end development, UI/UX implementation, responsive design, and Git/GitHub workflows.<br>
+<p align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Ayush+Tripathi;Computer+Science+Student;Full+Stack+Developer;Open+Source+Contributor;AI+%26+ML+Enthusiast;Building+Projects+Every+Day" />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ayushtripathi45_23908) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ayushh.45) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-tripathi45) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/59aZsDYLG) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushtripathi9821@gmail.com) 
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=flat&logo=Adobe%20Fonts&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayushtripathi-45&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ayushtripathi-45&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushtripathi-45&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Ayush%20Tripathi&fontSize=65&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 🚀 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+🎓 Computer Science Undergraduate
+
+💻 Passionate about Full Stack Development & AI/ML
+
+🌱 Currently Learning:
+
+* Data Structures & Algorithms
+* React Ecosystem
+* Backend Development
+* System Design
+
+🚀 Exploring Open Source & Real World Projects
+
+⚡ Fun Fact:
+
+> I enjoy breaking things and rebuilding them better.
+
+<br clear="right"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ayushtripathi-45&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🎯 Current Focus
+
+ - 📚 Solving DSA Daily
+ - ⚛️ Learning Advanced React
+ - 🌐 Building Full Stack Projects
+ - 🤝 Open Source Contributions
+ - 🚀 Exploring LLMs 
+ - 🧠 Exploring AI & Machine Learning
+
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/ayush-tripathi45">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://instagram.com/_ayushh.45">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="mailto:ayushtripathi9821@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://discord.gg/ayushtripathi45_23908">
+<img src="https://skillicons.dev/icons?i=discord"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,html,css,react,nodejs,mongodb,mysql,firebase,supabase,tailwind,bootstrap,git,github,figma,photoshop,vercel,netlify,notion&perline=10"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushtripathi-45&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushtripathi-45&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="90%" src="https://streak-stats.demolab.com?user=ayushtripathi-45&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+<!--  
+# 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ayush-45?theme=dark&font=Baloo&ext=contest"/>
+</p>
+
+---
+-->
+
+# 📈 Activity Timeline
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushtripathi-45&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushtripathi-45&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ayushtripathi-45?label=FOLLOWERS&style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ayushtripathi-45?label=STARS&style=for-the-badge" alt="Stars" />
+</p>
+
+---
+
+# 🎖️ Holopin Badges
+
+<p align="center">
+
+[![@YOUR\_USERNAME's Holopin board](https://holopin.io/api/user/board?user=ayushtripathi45)](https://holopin.io/@ayushtripathi45)
+
+</p>
+
+---
+
+# 🎮 3D Contribution Calendar
+
+> Requires GitHub Action setup
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> Requires GitHub Action setup
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 💭 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+
+<hr>
+
+<h3 align="center">Thanks for scrolling this far 🚀</h3>
+
+<p align="center">
+  <i>Always learning. Always building.</i>
+</p>
+
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
+
+</p>
