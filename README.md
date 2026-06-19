@@ -128,18 +128,11 @@
 # 🎮 3D Contribution Calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayushtripathi-45/ayushtripathi-45/output/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/ayushtripathi-45/ayushtripathi-45/output/profile-night-rainbow.svg?v=1" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayushtripathi-45/ayushtripathi-45/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 # 💭 Random Dev Quote
 
