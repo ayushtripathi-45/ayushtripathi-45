@@ -127,20 +127,10 @@
 
 # 🎮 3D Contribution Calendar
 
-> Requires GitHub Action setup
+
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-> Requires GitHub Action setup
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
