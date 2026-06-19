@@ -127,10 +127,8 @@
 
 # 🎮 3D Contribution Calendar
 
-
-
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+  <img src="https://raw.githubusercontent.com/ayushtripathi-45/ayushtripathi-45/output/profile-night-rainbow.svg" />
 </p>
 
 ---
