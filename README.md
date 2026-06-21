@@ -9,6 +9,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Ayush+Tripathi;Computer+Science+Student;Full+Stack+Developer;Open+Source+Contributor;AI+%26+ML+Enthusiast;Building+Projects+Every+Day" />
 
 </p>
+
 # 🚀 About Me
 
 <img align="right" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
