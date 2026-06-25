@@ -128,15 +128,6 @@
   <img src="https://raw.githubusercontent.com/ayushtripathi-45/ayushtripathi-45/output/profile-night-rainbow.svg?v=1" />
 </p>
 
----
-
-
-# 💭 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
 
 <hr>
 
@@ -145,7 +136,6 @@
 <p align="center">
   <i>Always learning. Always building.</i>
 </p>
-
 
 <p align="center">
 
