@@ -78,14 +78,10 @@
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushtripathi-45&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushtripathi-45&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ayushtripathi-45&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=ayushtripathi-45&theme=tokyonight&hide_border=true"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=ayushtripathi-45&theme=tokyonight)
+
 
 ---
 <!--  
