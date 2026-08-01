@@ -123,14 +123,6 @@
 
 </p>
 
----
-
-# 🎮 3D Contribution Calendar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayushtripathi-45/ayushtripathi-45/output/profile-night-rainbow.svg?v=1" />
-</p>
-
 
 <hr>
 
