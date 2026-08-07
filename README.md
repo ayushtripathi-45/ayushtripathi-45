@@ -1,11 +1,10 @@
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=56&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=Ayush+Tripathi)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=52&duration=1&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=Ayush+Tripathi" alt="Ayush Tripathi" />
 
-![](https://img.shields.io/badge/Full%20Stack-Developer-0ea5e9?style=for-the-badge)
-![](https://img.shields.io/badge/AI%2FML-Enthusiast-7c3aed?style=for-the-badge)
-![](https://img.shields.io/badge/DSA-Learner-ec4899?style=for-the-badge)
+  ![](https://img.shields.io/badge/Full%20Stack-Developer-0ea5e9?style=for-the-badge)
+  ![](https://img.shields.io/badge/AI%2FML-Enthusiast-7c3aed?style=for-the-badge)
+  ![](https://img.shields.io/badge/DSA-Learner-ec4899?style=for-the-badge)
 
 </div>
 
