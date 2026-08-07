@@ -85,7 +85,7 @@
 
 # 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ayushtripathi-45&show_icons=true&theme=tokyonight)
+<!--- ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ayushtripathi-45&show_icons=true&theme=tokyonight) --->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ayushtripathi-45&theme=tokyonight)
 
