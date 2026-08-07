@@ -82,38 +82,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<!--- ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ayushtripathi-45&show_icons=true&theme=tokyonight) --->
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ayushtripathi-45&theme=tokyonight)
-
-
----
-<!--  
-# 🧠 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ayush-45?theme=dark&font=Baloo&ext=contest"/>
-</p>
-
----
--->
-
-# 📈 Activity Timeline
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushtripathi-45&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushtripathi-45&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ayushtripathi-45?label=FOLLOWERS&style=for-the-badge" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ayushtripathi-45?label=STARS&style=for-the-badge" alt="Stars" />
-</p>
-
----
-
 # 🎖️ Holopin Badges
 
 <p align="center">
@@ -131,8 +99,3 @@
   <i>Always learning. Always building.</i>
 </p>
 
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
-
-</p>
