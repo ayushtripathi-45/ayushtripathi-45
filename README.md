@@ -5,7 +5,13 @@
   ![](https://img.shields.io/badge/Full%20Stack-Developer-0ea5e9?style=for-the-badge)
   ![](https://img.shields.io/badge/AI%2FML-Enthusiast-7c3aed?style=for-the-badge)
   ![](https://img.shields.io/badge/DSA-Learner-ec4899?style=for-the-badge)
-
+  
+  <div align="center">
+    
+  [![DevConnect](https://devconnectplatform.com/api/badge/ayushtripathi45)](https://devconnectplatform.com/u/ayushtripathi45?ref=badge)
+  
+  </div>
+  
 </div>
 
 ---
